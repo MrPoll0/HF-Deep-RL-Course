@@ -1,0 +1,6 @@
+stable-baselines3>=2.0.0
+swig
+gymnasium==0.28.1
+huggingface_sb3
+jupyterlab
+ipywidgets
